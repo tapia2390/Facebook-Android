@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook-Android</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">274114363023671</string>
+    <string name="facebook_app_idprueba">274114363023671 1508067662817316</string>
+    <string name="id_banner">ca-app-pub-7549285280935751/1201313221</string>
+</resources>
